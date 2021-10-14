@@ -32,7 +32,6 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=FFCA28)&nbsp;
 ![AJAX](https://img.shields.io/badge/-AJAX-05122A?style=flat&logo=ajax&logoColor=FFCA28)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express&logoColor=FFCA28)&nbsp;
-![Postgres](https://img.shields.io/badge/-Postgres-05122A?style=flat&logo=postgres&logoColor=FFCA28)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux&logoColor=FFCA28)&nbsp;
 
 ### :link: &nbsp;Connect with me
