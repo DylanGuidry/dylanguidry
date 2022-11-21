@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Dylan Guidry </h1>
 
-<p align="center" width="150px"> I graduated from DigitalCrafts September of 2021 (A coding bootcamp that focuses on web development). <br>Soon, I hope to find a React-Developer postion.</p>
+<p align="center" width="150px"> I graduated from DigitalCrafts September of 2021 (A coding bootcamp that focuses on web development). <br>Soon, I hope to find a React-Developer position.</p>
 
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DylanGuidry&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
