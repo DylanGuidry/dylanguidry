@@ -37,8 +37,5 @@
 ### :link: &nbsp;Connect with me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/dylan-guidry"><img src="https://img.shields.io/badge/-Dylan%20Guidry-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/yaboydillpickle/?hl=en"><img src="https://img.shields.io/badge/-dylanguidry.me-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://leetcode.com/DylanGuidry20/"><img src="https://img.shields.io/badge/-dylanguidry-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="https://twitter.com/yaboydillpickl1"><img src="https://img.shields.io/badge/-dylanguidry-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/dylan-guidry"><img src="https://img.shields.io/badge/-Dylan%20Guidry-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a><a href="https://leetcode.com/DylanGuidry20/"><img src="https://img.shields.io/badge/-dylanguidry-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 </p>
