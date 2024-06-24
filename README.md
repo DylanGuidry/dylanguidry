@@ -5,9 +5,9 @@
 <p align="center" width="150px"> I graduated from DigitalCrafts September of 2021 (A coding bootcamp that focuses on web development). <br>Soon, I hope to find a React-Developer position.</p>
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DylanGuidry&layout=compact&hide=TSQL&theme=swift"></p>
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=DylanGuidry&count_private=true&show_icons=true&&theme=swift&include_all_commits=true" width="400"></p> 
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=DylanGuidry&theme=swift"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DylanGuidry&layout=compact&hide=TSQL&theme=moltack"></p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=DylanGuidry&count_private=true&show_icons=true&&theme=moltack&include_all_commits=true" width="400"></p> 
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=DylanGuidry&theme=moltack"></p>
 
 ### 🛠 &nbsp;Tech Stack
 
