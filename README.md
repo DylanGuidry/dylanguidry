@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
+<p align="center"><img src="https://i.pinimg.com/originals/c2/34/ba/c234babb3445ee509569b656ada08cef.gif"></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Dylan Guidry </h1>
 
